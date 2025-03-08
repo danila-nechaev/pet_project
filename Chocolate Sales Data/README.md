@@ -42,4 +42,6 @@
 ------------------------------------
 Диаграмма продаж по странам.
 
+![image](https://github.com/user-attachments/assets/e09746fd-7b42-4a46-bf8d-0169f047ca07)
+
 ![image](https://github.com/user-attachments/assets/318f1669-ad5b-4bdc-8862-77cb8ab87328)
