@@ -20,7 +20,7 @@
 ![image](https://github.com/user-attachments/assets/2cdd2327-a81f-41fb-bd89-aaba92ee8842)
 
 ------------------------------------
-Поиск кто купил больше всего коробок шоколада.
+Поиск, кто купил больше всего коробок шоколада.
 
 ![image](https://github.com/user-attachments/assets/4616f281-49bc-4e83-bba5-eb7028fb3d82)
 
